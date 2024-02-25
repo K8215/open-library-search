@@ -1,4 +1,4 @@
-# open-library-search
+# Open Library Search
 
 Search a book title to return publication, genre, and author data from [Open Library](https://openlibrary.org/)
 
